@@ -8,7 +8,7 @@
 - python-opencv-contrib <= 4.2.1.16
 
 ## Note
-SIRF is no longer available in opencv > 3.4.2.16, you should choose older versions of opencv-python and opencv-contrib-python, the issue can be solved by using the following command lines:
+SIFT is no longer available in opencv > 3.4.2.16, you should choose older versions of opencv-python and opencv-contrib-python, the issue can be solved by using the following command lines:
 ```bashrc
 python -m pip install opencv-python==3.4.2.16
 python -m pip install opencv-contrib-python==3.4.2.16
