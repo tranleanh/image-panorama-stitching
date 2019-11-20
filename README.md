@@ -25,13 +25,23 @@ Example:
 python panorama.py images/left.jpg images/right.jpg
 ```
 ## Results
-1. Inputs: Left and right images
+### 1. 2-Image Panorama
+- Inputs: Left and right images
 
 ![picture](images/inputs.jpg)
 
-2. Output:
+- Output:
 
 ![picture](outputs/panorama.jpg)
+
+### 2. 3-Image Panorama
+- Inputs: 3 images
+
+![picture](images/inputs_2.jpg)
+
+- Output:
+
+![picture](outputs/panorama_2.jpg)
 
 Nov. 2019
 
