@@ -15,6 +15,21 @@ Or just execute:
 ```bashrc
 python -m pip install -r requirements.txt
 ```
+## Usage
+The application can be run by executing: 
+```bashrc
+python panorama.py "left_image_path" "right_image_path"
+```
+Example:
+```bashrc
+python panorama.py images/left.jpg images/right.jpg
+```
+## Results
+- Inputs: Left and right images
+![picture](images/inputs.jpg)
+- Output:
+![picture](outputs/panorama.jpg)
+
 Nov. 2019
 
 Tran Le Anh
