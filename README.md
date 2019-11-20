@@ -1,5 +1,5 @@
 # Image Panorama Stitching
-The repository is for Panorama Images Stitching Project.
+STATE: UPDATING...
 
 ## Requirements
 - Python 3
@@ -41,7 +41,7 @@ python panorama.py images/left.jpg images/right.jpg
 
 - Output:
 
-![picture](outputs/panorama_2.jpg)
+![picture](outputs/panorama2.jpg)
 
 Nov. 2019
 
