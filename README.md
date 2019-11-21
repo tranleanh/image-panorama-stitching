@@ -16,6 +16,7 @@ Or just execute:
 python -m pip install -r requirements.txt
 ```
 ## Usage
+### 1. 2 Images Only (panorama.py)
 The application can be run by executing: 
 ```bashrc
 python panorama.py "left_image_path" "right_image_path"
@@ -23,6 +24,15 @@ python panorama.py "left_image_path" "right_image_path"
 Example:
 ```bashrc
 python panorama.py images/left.jpg images/right.jpg
+```
+### 2. Multiple Images (multi_image_pano.py: >= 2 images)
+The application can be run by executing: 
+```bashrc
+python multi_image_pano.py --images "folder-containing-images-path" --output "output-file"
+```
+Example:
+```bashrc
+python multi_image_pano.py --images images/3_images --output 3_img_pano.jpg
 ```
 ## Results
 ### 1. 2-Image Panorama
@@ -42,6 +52,9 @@ python panorama.py images/left.jpg images/right.jpg
 - Output:
 
 ![picture](outputs/3_img_pano.jpg)
+## References
+1. https://github.com/linrl3/Image-Stitching-OpenCV
+2. https://www.pyimagesearch.com/2018/12/17/image-stitching-with-opencv-and-python/
 
 Nov. 2019
 
