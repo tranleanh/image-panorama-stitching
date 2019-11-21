@@ -55,6 +55,7 @@ python multi_image_pano.py --images images/3_images --output 3_img_pano.jpg
 ## References
 1. https://github.com/linrl3/Image-Stitching-OpenCV
 2. https://www.pyimagesearch.com/2018/12/17/image-stitching-with-opencv-and-python/
+3. https://medium.com/pylessons/image-stitching-with-opencv-and-python-1ebd9e0a6d78
 
 Nov. 2019
 
