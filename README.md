@@ -43,7 +43,7 @@ python panorama.py images/left.jpg images/right.jpg
 
 - Output:
 
-![picture](outputs/panorama2.jpg)
+![picture](outputs/3_img_pano.jpg)
 
 Nov. 2019
 
