@@ -1,7 +1,5 @@
 # Image Panorama Stitching
-===> STATE: UPDATING... <===
-
-==> The application is now being applied for 2 images only!
+===> STATUS: UPDATING... <===
 
 ## Requirements
 - Python 3
