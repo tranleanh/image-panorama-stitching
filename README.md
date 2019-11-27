@@ -1,6 +1,4 @@
 # Image Panorama Stitching
-===> STATUS: UPDATING... <===
-
 ## Requirements
 - Python 3
 - python-opencv-contrib <= 4.2.1.16
